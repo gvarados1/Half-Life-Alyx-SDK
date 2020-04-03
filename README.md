@@ -17,8 +17,9 @@ Edit the `launch-hl-alyx.bat` file and update the path to match your `sourcemods
 
 # Known issues
 - Navmesh doesn't appear to be working
-- Running in editor WILL crash the editor
-- Random crashes
+- In-editor VR preview doesn't work
+- Sounds might not load in Hammer - but they work ingame and in the Asset Browser
+- Random crashes (Feature from Source 1)
 
 # Compiling maps
 Maps *should* compile from the hammer editor, note that you will have to COPY them over to your REAL Half-Life Alyx maps folder in order to actually try them out.  This is possible with +sv_cheats and the `map` command in the console of Half Life Alyx.  
